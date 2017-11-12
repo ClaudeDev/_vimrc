@@ -15,7 +15,7 @@ You already know it, you already love it. But you have to press Ctrl-y and , to 
 I missed a lot the tab of Sublime so I wrote a workaround in my .vimrc that you can find here:
 Now you just press ,, and you are done. You are welcome.
 
-2)AUTOCOMPLETEME
+2)YOUCOMPLETEME
 https://github.com/Valloric/YouCompleteMe#windows
 This is the best autocomplete plugin for VIM, it will autocomplete most of the programming languages and it’s really useful for Javascript. Now you have and IDE like VIM.
 
@@ -27,6 +27,6 @@ Well, it’s the best syntax checker for VIM.
  https://github.com/pangloss/vim-javascript
 To solve some indentation problems.
 
-5) vim-indent-guides
+5) VIM_INDENT_GUIDES
 https://github.com/nathanaelkane/vim-indent-guides
 I like this plugin because it gives you a very visual and immediate way to see the Tree.
