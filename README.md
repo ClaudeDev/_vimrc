@@ -19,9 +19,10 @@ Now you just press ,, and you are done. You are welcome.
 https://github.com/Valloric/YouCompleteMe#windows
 This is the best autocomplete plugin for VIM, it will autocomplete most of the programming languages and it’s really useful for Javascript. Now you have and IDE like VIM.
 
-3)SYNTASTIC
-https://github.com/vim-syntastic/syntastic
-Well, it’s the best syntax checker for VIM.
+3)ALE
+https://github.com/w0rp/ale
+Forget SYNTASTIC, ALE is the new king. ALE works in an asynchronous way and it uses all the possibilities that Vim 8 introduced. It is much faster and performant than syntastic.
+It can use different linters. I suggest ESLINT and FLOW for javascript.
 
 4)VIM-JAVASCRIPT
  https://github.com/pangloss/vim-javascript
